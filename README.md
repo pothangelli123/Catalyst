@@ -1,26 +1,26 @@
-# TaskFlow - Modern Task Management Application
+# Catalyst - A Modern Task Management App
 
-A modern, production-ready task management application built with React, TypeScript, and Tailwind CSS.
+Catalyst is your ultimate task management tool, designed for simplicity and efficiency. Built with cutting-edge technologies, it offers a modern, clean interface and robust features to help you stay organized and productive.
 
-## Features
-
-- 📋 Kanban-style task board
-- ✨ Clean and modern UI
-- 📱 Fully responsive design
-- 🎯 Priority levels for tasks
-- 👥 Employee assignment
-- 📅 Due date management
-- 🔄 Real-time status updates
-
+✨ Key Features
+	•	Sleek, Modern Design: Enjoy a polished, intuitive interface.
+	•	Fully Responsive: Works seamlessly across all devices.
+	•	Prioritize Tasks: Assign priority levels to focus on what matters most.
+	•	Team Collaboration: Assign tasks to team members with ease.
+	•	Due Date Tracking: Never miss a deadline.
+	•	Real-Time Updates: Stay on top of progress with live status updates.
 ## Tech Stack
 
-- React
-- TypeScript
-- Tailwind CSS
-- Zustand (State Management)
-- Lucide Icons
-- Date-fns
-- React DatePicker
+🔧 Tech Stack
+
+Catalyst is powered by modern tools to ensure a smooth and reliable experience:
+	•	React: Fast and flexible UI framework.
+	•	TypeScript: Strongly typed code for better reliability.
+	•	Tailwind CSS: Create beautiful designs with minimal effort.
+	•	Zustand: Simplified and efficient state management.
+	•	Lucide Icons: Stylish and scalable icons for every need.
+	•	Date-fns: Intuitive and lightweight date utilities.
+	•	React DatePicker: Pick dates effortlessly.
 
 ## Getting Started
 
